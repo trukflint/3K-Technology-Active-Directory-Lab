@@ -12,6 +12,8 @@ The project focuses on centralized identity management, domain authentication, s
 
 ## Lab Architecture
 
+![3K Technology Network Architecture](network-architecture.png)
+
 | System   | Operating System    | Role                      | IP Address     |
 | -------- | ------------------- | ------------------------- | -------------- |
 | DC01     | Windows Server 2025 | Domain Controller, DNS    | 192.168.148.10 |
